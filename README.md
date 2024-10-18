@@ -201,3 +201,21 @@ When the trash can icon is tapped, it will delete the available review.
 ## Side Menu
 
 Used for logout functionality.
+
+## Tangkapan Layar
+
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <img src="assets/img/Register.png" width="19%" alt="Register Page">
+  <img src="assets/img/RegisterSuccess.png" width="19%">
+  <img src="assets/img/Login.png" width="19%">
+  <img src="assets/img/Home.png" width="19%">
+  <img src="assets/img/Create.png" width="19%">
+  <img src="assets/img/CreateSuccess.png" width="19%">
+  <img src="assets/img/HomeAfterCreate.png" width="19%">
+  <img src="assets/img/Update.png" width="19%">
+  <img src="assets/img/UpdateSuccess.png" width="19%">
+  <img src="assets/img/HomeAfterUpdate.png" width="19%">
+  <img src="assets/img/Delete.png" width="19%">
+  <img src="assets/img/Delete2.png" width="19%">
+  <img src="assets/img/SideMenu.png" width="19%">
+</div>
